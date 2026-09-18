@@ -15,8 +15,7 @@ execute:
 
 # Introduction
 
-Here is a reproducible Quarto workflow where we u
-sed the linear model to predict levels of extraversion from demographic and personality variables.
+Here is a reproducible Quarto workflow where we u sed the linear model to predict levels of extraversion from demographic and personality variables.
 
 ```{r}
 #| label: setup
